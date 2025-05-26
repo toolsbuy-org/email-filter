@@ -1,8 +1,9 @@
 #If it is not built-in module u can install it
 import re
 
-# Email regex pattern
-email_regex = r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+# Email regex pattern. You can customize it
+email_regex = r'\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b'
+
 
 # Store results
 line_email_counts = {}
