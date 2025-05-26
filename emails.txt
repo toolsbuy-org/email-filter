@@ -1,1 +1,7 @@
 # COPY AND PASTE YOUR PARAGRAPH HERE
+
+For an instance:
+This line has test@example.com and another test2@mail.com
+Nothing here but notg@txt.com
+hello@abc.com is one
+one@a.com two@b.net three@c.org
